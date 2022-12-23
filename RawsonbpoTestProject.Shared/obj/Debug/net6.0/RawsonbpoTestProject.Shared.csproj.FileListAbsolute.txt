@@ -1,0 +1,12 @@
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\bin\Debug\net6.0\RawsonbpoTestProject.Shared.deps.json
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\bin\Debug\net6.0\RawsonbpoTestProject.Shared.dll
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\bin\Debug\net6.0\RawsonbpoTestProject.Shared.pdb
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\RawsonbpoTestProject.Shared.csproj.AssemblyReference.cache
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\RawsonbpoTestProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\RawsonbpoTestProject.Shared.AssemblyInfoInputs.cache
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\RawsonbpoTestProject.Shared.AssemblyInfo.cs
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\RawsonbpoTestProject.Shared.csproj.CoreCompileInputs.cache
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\RawsonbpoTestProject.Shared.dll
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\refint\RawsonbpoTestProject.Shared.dll
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\RawsonbpoTestProject.Shared.pdb
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Shared\obj\Debug\net6.0\ref\RawsonbpoTestProject.Shared.dll

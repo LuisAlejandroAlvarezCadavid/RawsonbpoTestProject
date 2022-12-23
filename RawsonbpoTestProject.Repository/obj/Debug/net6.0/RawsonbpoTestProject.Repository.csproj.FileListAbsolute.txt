@@ -1,0 +1,17 @@
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\bin\Debug\net6.0\RawsonbpoTestProject.Repository.deps.json
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\bin\Debug\net6.0\RawsonbpoTestProject.Repository.runtimeconfig.json
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\bin\Debug\net6.0\RawsonbpoTestProject.Repository.dll
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\bin\Debug\net6.0\RawsonbpoTestProject.Repository.pdb
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\bin\Debug\net6.0\RawsonbpoTestProject.Shared.dll
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\bin\Debug\net6.0\RawsonbpoTestProject.Shared.pdb
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.csproj.AssemblyReference.cache
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.AssemblyInfoInputs.cache
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.AssemblyInfo.cs
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.csproj.CoreCompileInputs.cache
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.csproj.CopyComplete
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.dll
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\refint\RawsonbpoTestProject.Repository.dll
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.pdb
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\RawsonbpoTestProject.Repository.genruntimeconfig.cache
+D:\Programas_Para_Pruebas\RawsonbpoTestProject\RawsonbpoTestProject.Repository\obj\Debug\net6.0\ref\RawsonbpoTestProject.Repository.dll
